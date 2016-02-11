@@ -10,7 +10,7 @@ public class App
     {
 
         System.out.println("This is maven test for git and jenkins");
-		System.out.println( "Hello World!" );
+		System.out.println( "Hello of World!" );
     }
 
 }
